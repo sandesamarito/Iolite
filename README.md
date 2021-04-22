@@ -1,5 +1,5 @@
 # Iolite
-Just a simple clock
+Salon website trial
 
 <!DOCTYPE html>
 <html>
