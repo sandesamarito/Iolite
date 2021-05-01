@@ -1,4 +1,4 @@
-# Iolite
+# Hadassah's touch
 Salon website trial
 
 <!DOCTYPE html>
